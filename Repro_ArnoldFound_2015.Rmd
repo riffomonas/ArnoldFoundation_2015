@@ -1,12 +1,13 @@
 ---
-title: Assessing the reproducibility of published microbiome analyses by teaching scientists methods to improve their own reproducibility
-author: Patrick D. Schloss, PhD
-date: '`r format(Sys.Date(), format="%B %d, %Y")`'
+title: "**Assessing the reproducibility of microbiome data analysis**"
+#author: Patrick D. Schloss, PhD
+#date: '`r format(Sys.Date(), format="%B %d, %Y")`'
 bibliography: references.bib
-output: pdf_document
+output:
+  pdf_document:
+    includes:
+      in_header: header.tex
 csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/american-society-for-microbiology.csl"
-latex_engine: xelatex
-mainfont: Arial
 fontsize: 11pt
 geometry: margin=1.0in
 ---
@@ -25,13 +26,12 @@ This explosion in interest has created a unique scientific environment. Microbio
 
 The Arnold Foundation has a special interest in “Research Integrity” and understanding how problems with research integrity affect public health policy. We are confident that this project fits within the mission of the foundation. As outlined above, the human microbiome is central to many issues in current public health discussions. The objective of the proposed project would be to assess the reproducibility of microbiome research by training researchers in the best current practices that improve reproducibility. To achieve our objective, we propose the following objectives:
 
-
-* ***Objective 1. Quantify the factors that affect the ability of researchers to reproduce each other's analyses.***  
-* ***Objective 2. Assess the reproducibility of***
-
-
+* ***Objective 1. Quantify the ability of researchers to reproduce reported analyses***  
+* ***Objective 2. Determine whether similar microbiome studies validate each other***
 
 Both of these objectives will improve the reproducibility of research within the microbiome community. Perhaps most importantly, they will be achieved through outreach and training activities across the microbiome research community. Given the significant role of the microbiome in human health improving the reliability of the results form these studies will have a meaningful positive impact.
+
+\newpage
 
 
 
