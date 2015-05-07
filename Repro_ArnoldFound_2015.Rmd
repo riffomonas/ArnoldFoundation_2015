@@ -77,11 +77,15 @@ We will broadly recruit an international and diverse cohort of microbiome resear
 
 
 
-
-
 ## Objective 3. Determine whether similar microbiome studies validate each other
 
-In other words, can I take data from a researcher that used their favorite analysis pipeline and get their results if I use my pipeline? This would  assess the sensitivity of results to variation in analytical methods. This of course underlies the robustness of the science. This aim would also underscore the importance of reproducibility and the goals of the other aims.
+Typical approach is to reproduce the entire study, not just the analysis
+Of course this is costly
+Would need to assess the scope of the problem first (Objective 2)
+There's also a lot of data out in the literature that could be used to answer the same question
+Obesity example
+Other possibilities: gender, IBD, colon cancer, lung microbiome, indigenous populations, etc.
+
 
 
 
