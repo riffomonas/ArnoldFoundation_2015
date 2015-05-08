@@ -6,7 +6,10 @@ This explosion has created a unique scientific environment. Microbiologists who 
 
 The Arnold Foundation has a special interest in “Research Integrity” and understanding how problems with research integrity affect public health policy. We are confident that this project fits within the mission of the foundation. As outlined above, the human microbiome is central to many issues in current public health discussions. The objective of the proposed project would be to assess the reproducibility of microbiome research by training researchers in the best current practices that improve reproducibility. To achieve our objective, we propose the following objectives:
 
-• Objective 1. Assess the level of methodological transparency of microbiome studies • Objective 2. Quantify the ability of researchers to reproduce reported analyses
+• Objective 1. Assess the level of methodological transparency of microbiome studies
+
+• Objective 2. Quantify the ability of researchers to reproduce reported analyses
+
 • Objective 3. Determine whether similar microbiome studies validate each other
 
 Together, these objectives will allow us to assess whether microbiome research has a reproducibility problem. As outlined below, we will achieve these objectives by engaging the microbiome research community. Given the significant role of the microbiome in human health improving the reliability of the results form the proposed research will have a meaningful positive impact.
